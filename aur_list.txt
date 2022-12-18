@@ -1,3 +1,13 @@
 cbonsai
 cava
+gnome-shell-extension-dash-to-panel-git
+gnome-shell-extension-caffeine-git
+gnome-shell-extension-arc-menu-git
+catppuccin-gtk-theme-macchiato
+simplenote-electron-bin
+spotify-dev
+cava
+cbonsai
+dropbox
+shell-color-scripts
 
