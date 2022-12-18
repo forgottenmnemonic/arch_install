@@ -11,3 +11,7 @@ feh
 ntfs-3g
 signal-desktop
 steam
+github-cli
+npm
+python-pip
+vlc
