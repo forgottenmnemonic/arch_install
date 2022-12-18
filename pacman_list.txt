@@ -1,0 +1,13 @@
+inkscape
+gimp
+asciiquarium
+kitty
+neofetch
+neovim
+papirus-icon-theme
+pycharm-community-edition
+lsd
+feh
+ntfs-3g
+signal-desktop
+steam
