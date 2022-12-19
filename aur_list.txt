@@ -10,4 +10,3 @@ cava
 cbonsai
 dropbox
 shell-color-scripts
-
